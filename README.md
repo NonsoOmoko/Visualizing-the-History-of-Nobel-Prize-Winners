@@ -15,7 +15,7 @@ The project explores the history of Nobel Prize winners through data visualizati
 
 ## Dependencies
 
-The analysis is performed using the following libraries:
+The analysis and vizualization are performed using the following libraries:
 - pandas
 - seaborn
 - numpy
@@ -24,6 +24,6 @@ The analysis is performed using the following libraries:
 
 1. Clone the repository to your local machine.
 2. Open and run the `analysis.ipynb` notebook using Jupyter Notebook or JupyterLab.
-3. Explore the code and insights derived from the Nobel Prize dataset.
+3. Explore the code, visualizations, and insights derived from the Nobel Prize dataset.
 
-Feel free to fork, modify, or extend the analysis based on your interests or research questions! Maybe try your hands at vizualizations!
+Feel free to fork, modify, or extend the analysis based on your interests or research questions! Maybe try your hands at some vizualizations!
